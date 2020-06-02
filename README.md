@@ -1,6 +1,6 @@
 # Randomized Exploration for Non-Stationary Stochastic Linear Bandits - UAI 2020
 
-The algorithms are described and theoretically analayzed in the following work available at: https://arxiv.org/pdf/1912.05695.pdf. 
+The algorithms are described and theoretically analyzed in the following work available at: https://arxiv.org/pdf/1912.05695.pdf. 
 ```
 Baekjin Kim and Ambuj Tewari. 
 Randomized exploration for non-stationary stochastic linear bandits. 
