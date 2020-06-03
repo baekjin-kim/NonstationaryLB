@@ -13,4 +13,4 @@ The code is built with Python 3.7.1 and it requires Numpy and Scipy to run exper
 
 Also, the code is built on top of sourcecode of the NeurIPS19 paper of Yoan Russac et al., which is available at https://github.com/YRussac/WeightedLinearBandits.
 
-This experiment is real-dataset-based simulation study to show empirical performances of D-LinTS and D-RandLinUCB, which uses Criteo Attribution Modeling for Bidding Dataset ("criteo_attribution_dataset.tsv.gz") available at https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/.
+This experiment is real-dataset-based simulation study to show empirical performances of D-LinTS and D-RandLinUCB, which uses Criteo Attribution Modeling for Bidding Dataset ("criteo_attribution_dataset.tsv.gz") available at https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset.
